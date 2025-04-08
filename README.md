@@ -33,7 +33,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Hesara08&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
       <br/>
-    
-      
-  
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hesara08&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesara08&theme=tokyonight&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>
+
